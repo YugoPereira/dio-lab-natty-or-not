@@ -1,6 +1,6 @@
 # E-book: O Analista "Fake Natty" das Campanhas Nutra 📊💊
 
-**[ 📥 Clique aqui para ler e baixar o E-book completo (PDF) ](./Ebook-Analista-Fake-Natty.pdf)**
+**[ 📥 Clique aqui para ler e baixar o E-book completo (PDF) ](./dio-lab-natty-or-not.pdf)**
 
 ## 📒 Descrição
 Este projeto é um e-book prático que explora a interseção entre Inteligência Artificial Generativa, Análise de Dados e Marketing de Afiliados. Inspirado no conceito "Natty or Not", o material demonstra como um analista pode usar IAs para atuar como um "exoesqueleto analítico", gerando relatórios de campanhas *nutra* e insights de ROI/CTR tão precisos e bem redigidos que parecem ter levado dias de trabalho humano para serem concluídos.
